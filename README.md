@@ -8,6 +8,6 @@ En esta pieza, me he decidido a realizarla usando los siguientes componentes:
 
 Al ser una aplicación con Spring Boot, solo hará falta ejecutar la clase com.marce.idealista.advertAPI.Application y se obtendrán estos tres endpoints:
 	
-	* http://localhost:8080/adverts/ -> Muestra todos los anuncios con la puntuación calculada.
+	* http://localhost:8080/adverts -> Muestra todos los anuncios con la puntuación calculada.
 	* http://localhost:8080/adverts/irrelevant -> Obtiene los anuncios irrelevantes con la fecha rellena.
 	* http://localhost:8080/adverts/user -> Devolverá los anuncios que son relevantes para los usuarios ordenados por puntuación de mejor a peor.
