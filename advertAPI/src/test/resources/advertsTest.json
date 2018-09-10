@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "description": "description1",
+    "pictures": []
+  },
+  {
+    "id": 2,
+    "description": "description2",
+    "pictures": [
+      "http://www.idealista.com/pictures/2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "description": "",
+    "pictures": [
+      "http://www.idealista.com/pictures/3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "description": "description4",
+    "pictures": [
+      "http://www.idealista.com/pictures/5.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "description": "description5",
+    "pictures": [
+      "http://www.idealista.com/pictures/3.jpg",
+      "http://www.idealista.com/pictures/4.jpg"
+    ]
+  },
+    {
+    "id": 6,
+    "description": "",
+    "pictures": []
+  },
+  {
+    "id": 7,
+    "description": "description7",
+    "pictures": [
+      "http://www.idealista.com/pictures/2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "description": "description8",
+    "pictures": [
+      "http://www.idealista.com/pictures/3.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "description": "",
+    "pictures": [
+      "http://www.idealista.com/pictures/5.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "description": "Pisazo",
+    "pictures": [
+      "http://www.idealista.com/pictures/3.jpg",
+      "http://www.idealista.com/pictures/4.jpg"
+    ]
+  }
+]
